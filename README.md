@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmatically creating Documents in Wagtail](https://importthis.tech/programmatically-creating-documents-in-wagtail)
+- [an opinionated list of essential VS Code extensions](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions)
+- [Branching workflows in Wagtail](https://importthis.tech/wagtail-branching-workflows)
+- [My technical writing journey](https://importthis.tech/my-technical-writing-journey)
+- [an opinionated list of essential Node.js global packages](https://importthis.tech/an-opinionated-list-of-essential-nodejs-global-packages)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
