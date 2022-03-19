@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/517556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="517556" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/engineervix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engineervix" height="30" width="40" /></a>
-<a href="/https://importthis.tech/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://importthis.tech/rss.xml" height="30" width="40" /></a>
+<a href="https://importthis.tech/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://importthis.tech/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
