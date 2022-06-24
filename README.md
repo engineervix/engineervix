@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/engineervix" target="blank"><img src="https://img.shields.io/twitter/follow/engineervix?logo=twitter&style=for-the-badge" alt="engineervix" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 📝 I write articles from time to time at [importthis.tech](importthis.tech)
 
 - 💬 Ask me about **Python, Django, Wagtail, Linux**
