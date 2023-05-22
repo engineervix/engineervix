@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -16,4 +16,5 @@ jobs:
       - name: Pull in importthis.tech posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://importthis.tech/rss.xml'
+          feed_list: "https://importthis.tech/rss.xml"
+          commit_message: "chore: update README with the latest blog posts"
