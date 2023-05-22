@@ -14,12 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Dev Retro 2022 — a tech retrospective](https://importthis.tech/dev-retro-2022)
+- [Using CLI tools to manage audio, video, images and PDF files](https://importthis.tech/multimedia-cli-tools)
+- [And so it begins](https://importthis.tech/and-so-it-begins)
+- [Planning to study computer science](https://importthis.tech/planning-to-study-cs)
 - [Programmatically creating Documents in Wagtail](https://importthis.tech/programmatically-creating-documents-in-wagtail)
-- [an opinionated list of essential VS Code extensions](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions)
-- [Branching workflows in Wagtail](https://importthis.tech/wagtail-branching-workflows)
-- [My technical writing journey](https://importthis.tech/my-technical-writing-journey)
-- [an opinionated list of essential Node.js global packages](https://importthis.tech/an-opinionated-list-of-essential-nodejs-global-packages)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
