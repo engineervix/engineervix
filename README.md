@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building zed-news – an automated news podcast](https://importthis.tech/building-zed-news-an-automated-news-podcast)
 - [Dev Retro 2022 — a tech retrospective](https://importthis.tech/dev-retro-2022)
 - [Using CLI tools to manage audio, video, images and PDF files](https://importthis.tech/multimedia-cli-tools)
 - [And so it begins](https://importthis.tech/and-so-it-begins)
 - [Planning to study computer science](https://importthis.tech/planning-to-study-cs)
-- [Programmatically creating Documents in Wagtail](https://importthis.tech/programmatically-creating-documents-in-wagtail)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
