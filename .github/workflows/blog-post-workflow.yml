@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Pull in importthis.tech posts
+      - name: Pull in blog.victor.co.zm posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://importthis.tech/rss.xml"
+          feed_list: "https://blog.victor.co.zm/rss.xml"
           commit_message: "chore: update README with the latest blog posts"

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineervix&label=Profile%20views&color=0e75b6&style=flat-square" alt="engineervix" /> </p>
 
-<p align="left"> <a href="https://twitter.com/engineervix" target="blank"><img src="https://img.shields.io/twitter/follow/engineervix?logo=twitter&style=for-the-badge" alt="engineervix" /></a> </p>
+<p align="left"> <a href="https://twitter.com/engineervix" target="blank"><img src="https://img.shields.io/twitter/follow/engineervix" alt="engineervix" /></a> </p>
 
-- 📝 I write articles from time to time at [importthis.tech](importthis.tech)
+- 📝 I write articles from time to time at [blog.victor.co.zm](blog.victor.co.zm)
 
 - 💬 Ask me about **Python, Django, Wagtail, Linux**
 
@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building zed-news – an automated news podcast](https://importthis.tech/building-zed-news-an-automated-news-podcast)
-- [Dev Retro 2022 — a tech retrospective](https://importthis.tech/dev-retro-2022)
-- [Using CLI tools to manage audio, video, images and PDF files](https://importthis.tech/multimedia-cli-tools)
-- [And so it begins](https://importthis.tech/and-so-it-begins)
-- [Planning to study computer science](https://importthis.tech/planning-to-study-cs)
+- [Building zed-news – an automated news podcast](https://blog.victor.co.zm/building-zed-news-an-automated-news-podcast)
+- [Dev Retro 2022 — a tech retrospective](https://blog.victor.co.zm/dev-retro-2022)
+- [Using CLI tools to manage audio, video, images and PDF files](https://blog.victor.co.zm/multimedia-cli-tools)
+- [And so it begins](https://blog.victor.co.zm/and-so-it-begins)
+- [Planning to study computer science](https://blog.victor.co.zm/planning-to-study-cs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
