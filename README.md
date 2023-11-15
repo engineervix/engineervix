@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/engineervix" target="blank"><img src="https://img.shields.io/twitter/follow/engineervix" alt="engineervix" /></a> </p>
 
-- 📝 I write articles from time to time at [blog.victor.co.zm](blog.victor.co.zm)
+- 📝 I write articles from time to time at [blog.victor.co.zm](https://blog.victor.co.zm)
 
 - 💬 Ask me about **Python, Django, Wagtail, Linux**
 
