@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying HedgeDoc to Dokku](https://blog.victor.co.zm/deploying-hedgedoc-to-dokku)
 - [Building zed-news – an automated news podcast](https://blog.victor.co.zm/building-zed-news-an-automated-news-podcast)
 - [Dev Retro 2022 — a tech retrospective](https://blog.victor.co.zm/dev-retro-2022)
 - [Using CLI tools to manage audio, video, images and PDF files](https://blog.victor.co.zm/multimedia-cli-tools)
 - [And so it begins](https://blog.victor.co.zm/and-so-it-begins)
-- [Planning to study computer science](https://blog.victor.co.zm/planning-to-study-cs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
