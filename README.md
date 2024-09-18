@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Atomic Poetry Dependency Updates with Bash](https://blog.victor.co.zm/automating-atomic-poetry-dependency-updates-with-bash)
 - [How is it going?](https://blog.victor.co.zm/how-is-it-going)
 - [Markdown-powered emails in Django](https://blog.victor.co.zm/markdown-powered-emails-in-django)
 - [Conditional Display of Fields in Wagtail Admin](https://blog.victor.co.zm/conditional-display-of-fields-in-wagtail-admin)
 - [Deploying HedgeDoc to Dokku](https://blog.victor.co.zm/deploying-hedgedoc-to-dokku)
-- [Building zed-news – an automated news podcast](https://blog.victor.co.zm/building-zed-news-an-automated-news-podcast)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
