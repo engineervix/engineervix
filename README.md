@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build it Yourself: When a 2MB Solution Beats a 1GB Installation](https://blog.victor.co.zm/build-it-yourself-native-rpm-vs-flatpak)
 - [Automating Atomic Poetry Dependency Updates with Bash](https://blog.victor.co.zm/automating-atomic-poetry-dependency-updates-with-bash)
 - [How is it going?](https://blog.victor.co.zm/how-is-it-going)
 - [Markdown-powered emails in Django](https://blog.victor.co.zm/markdown-powered-emails-in-django)
 - [Conditional Display of Fields in Wagtail Admin](https://blog.victor.co.zm/conditional-display-of-fields-in-wagtail-admin)
-- [Deploying HedgeDoc to Dokku](https://blog.victor.co.zm/deploying-hedgedoc-to-dokku)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
