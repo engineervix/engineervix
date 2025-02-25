@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "30 16 * * 3" # Run at 16:30 (4:30pm) on Wednesday
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
