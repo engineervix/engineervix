@@ -24,7 +24,7 @@ I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagta
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,go,bash,django,flask,vue,nodejs,html,css,sass,tailwind,vite,webpack,babel,postgres,redis,linux,docker,aws,heroku,cloudflare,terraform,git,github,gitlab,vim,latex,android&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,go,bash,django,flask,vue,nodejs,html,css,sass,tailwind,vite,webpack,babel,postgres,redis,linux,docker,aws,heroku,cloudflare,terraform,git,github,gitlab,vim,neovim,latex&perline=15" />
   </a>
 </p>
 
