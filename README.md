@@ -31,6 +31,11 @@ I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagta
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello Neovim](https://blog.victor.co.zm/hello-neovim) — Feb 11, 2026
+- [From MS Word to LaTeX to Markdown: Taking the stress out of managing my CV](https://blog.victor.co.zm/taking-the-stress-out-of-managing-my-cv) — Aug 27, 2025
+- [Adding Your Own Context Menu Entries to GNOME Files (Nautilus)](https://blog.victor.co.zm/custom-nautilus-context-menu-python-extension) — Apr 26, 2025
+- [Build it Yourself: When a 2MB Solution Beats a 1GB Installation](https://blog.victor.co.zm/build-it-yourself-native-rpm-vs-flatpak) — Dec 18, 2024
+- [Automating Atomic Poetry Dependency Updates with Bash](https://blog.victor.co.zm/automating-atomic-poetry-dependency-updates-with-bash) — Sep 18, 2024
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats

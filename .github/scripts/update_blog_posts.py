@@ -1,44 +1,58 @@
+import json
 import re
 import sys
 import urllib.request
+from datetime import datetime
 
-import feedparser
-
-RSS_URL = "https://blog.victor.co.zm/rss.xml"
 README_PATH = "README.md"
 MAX_POSTS = 5
-USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-)
+HASHNODE_API = "https://gql.hashnode.com"
+BLOG_HOST = "blog.victor.co.zm"
+
+QUERY = """
+query PostsByPublication {
+  publication(host: "%s") {
+    posts(first: %d) {
+      edges {
+        node {
+          title
+          url
+          publishedAt
+        }
+      }
+    }
+  }
+}
+""" % (BLOG_HOST, MAX_POSTS)
 
 
 def fetch_posts():
+    payload = json.dumps({"query": QUERY}).encode()
     req = urllib.request.Request(
-        RSS_URL,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        },
+        HASHNODE_API,
+        data=payload,
+        headers={"Content-Type": "application/json"},
+        method="POST",
     )
     with urllib.request.urlopen(req, timeout=15) as response:
-        content = response.read()
+        data = json.loads(response.read())
 
-    # Debug: show first 200 bytes so we can tell if it's XML or HTML
-    preview = content[:200].decode("utf-8", errors="replace")
-    print(f"Feed preview: {preview}")
-
-    feed = feedparser.parse(content)
-
-    if not feed.entries:
-        print(f"No entries found. bozo={feed.bozo}, exception={feed.get('bozo_exception')}")
+    edges = data.get("data", {}).get("publication", {}).get("posts", {}).get("edges", [])
+    if not edges:
+        print(f"No posts found in response: {data}")
         return []
 
     posts = []
-    for entry in feed.entries[:MAX_POSTS]:
-        title = entry.get("title", "Untitled")
-        link = entry.get("link", "")
-        posts.append(f"- [{title}]({link})")
+    for edge in edges:
+        node = edge.get("node", {})
+        title = node.get("title", "Untitled")
+        url = node.get("url", "")
+        published = node.get("publishedAt", "")
+        if published:
+            date = datetime.fromisoformat(published.replace("Z", "+00:00")).strftime("%b %d, %Y")
+            posts.append(f"- [{title}]({url}) — {date}")
+        else:
+            posts.append(f"- [{title}]({url})")
 
     return posts
 
