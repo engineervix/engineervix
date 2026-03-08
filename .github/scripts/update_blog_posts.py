@@ -1,22 +1,37 @@
 import re
 import sys
+import urllib.request
 
 import feedparser
 
 RSS_URL = "https://blog.victor.co.zm/rss.xml"
 README_PATH = "README.md"
 MAX_POSTS = 5
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
 
 
 def fetch_posts():
-    feedparser.USER_AGENT = (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    req = urllib.request.Request(
+        RSS_URL,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        },
     )
-    feed = feedparser.parse(RSS_URL)
+    with urllib.request.urlopen(req, timeout=15) as response:
+        content = response.read()
 
-    if feed.bozo and not feed.entries:
-        print(f"Feed parse error: {feed.bozo_exception}")
+    # Debug: show first 200 bytes so we can tell if it's XML or HTML
+    preview = content[:200].decode("utf-8", errors="replace")
+    print(f"Feed preview: {preview}")
+
+    feed = feedparser.parse(content)
+
+    if not feed.entries:
+        print(f"No entries found. bozo={feed.bozo}, exception={feed.get('bozo_exception')}")
         return []
 
     posts = []
