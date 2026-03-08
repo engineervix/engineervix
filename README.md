@@ -1,38 +1,60 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">Full-stack / backend developer | Open source enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engineervix&label=Profile%20views&color=0e75b6&style=flat-square" alt="engineervix" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-stack+%2F+backend+developer;Open+source+enthusiast;Currently+learning+Go" alt="Typing SVG" />
+</p>
 
-- 📝 I write articles from time to time at [blog.victor.co.zm](https://blog.victor.co.zm)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engineervix&label=Profile%20views&color=0e75b6&style=flat-square" alt="engineervix" />
+</p>
 
-- 💬 Ask me about **Python, Django, Wagtail, Linux**
+### 🧑‍💻 About me
 
-- 📫 How to reach me: **victormiti (at) gmail (dot) com**
+Software engineer, backend-leaning. Mostly Python/Django/Wagtail, with a thing for automation. I release open source tools when I find a problem worth solving.
 
-### Blogs posts
+Recently built [kwelea](https://github.com/engineervix/kwelea), a standalone docs site generator, and [pseudoc](https://github.com/engineervix/pseudoc), which generates fake PDF, Word, and Excel files for testing workflows. Also learning Go.
 
-<!-- BLOG-POST-LIST:START -->
-- [Build it Yourself: When a 2MB Solution Beats a 1GB Installation](https://blog.victor.co.zm/build-it-yourself-native-rpm-vs-flatpak)
-- [Automating Atomic Poetry Dependency Updates with Bash](https://blog.victor.co.zm/automating-atomic-poetry-dependency-updates-with-bash)
-- [How is it going?](https://blog.victor.co.zm/how-is-it-going)
-- [Markdown-powered emails in Django](https://blog.victor.co.zm/markdown-powered-emails-in-django)
-- [Conditional Display of Fields in Wagtail Admin](https://blog.victor.co.zm/conditional-display-of-fields-in-wagtail-admin)
-<!-- BLOG-POST-LIST:END -->
+I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagtail, Linux questions welcome: victormiti (at) gmail (dot) com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victor-miti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-miti" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vix" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,linux,docker,bash,js,html,css,git,github,aws,go" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engineervix&show_icons=true&locale=en&layout=compact" alt="engineervix" /></p>
+### 📝 Latest Blog Posts
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=engineervix&show_icons=true&locale=en" alt="engineervix" /></p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engineervix&" alt="engineervix" /></p>
+### 📊 GitHub Stats
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/engineervix"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="engineervix" /></a></p><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engineervix&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engineervix&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineervix&theme=transparent&hide_border=true&title_color=0e75b6" alt="Streak Stats" />
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engineervix/engineervix/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engineervix/engineervix/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/engineervix/engineervix/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+### ☕ Support
+
+<p>
+  <a href="https://ko-fi.com/engineervix"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="engineervix" /></a>
+</p>
