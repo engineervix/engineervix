@@ -1,0 +1,26 @@
+name: Update years of experience
+
+on:
+  schedule:
+    - cron: "0 0 1 3 *" # Run at midnight on March 1st each year
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-experience:
+    name: Bump years of experience in README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Update years of experience
+        run: python .github/scripts/update_experience.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: bump years of experience in README"

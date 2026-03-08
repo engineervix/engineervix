@@ -14,8 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Pull in blog.victor.co.zm posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://blog.victor.co.zm/rss.xml"
+          python-version: "3.x"
+      - name: Install feedparser
+        run: pip install feedparser
+      - name: Pull in blog.victor.co.zm posts
+        run: python .github/scripts/update_blog_posts.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
           commit_message: "chore: update README with the latest blog posts"

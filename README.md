@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-stack+%2F+backend+developer;Open+source+enthusiast;Currently+learning+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-stack+%2F+backend+developer;Open+source+enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,10 +10,9 @@
 
 ### 🧑‍💻 About me
 
-Software engineer, backend-leaning. Mostly Python/Django/Wagtail, with a thing for automation. I release open source tools when I find a problem worth solving.
+Software engineer with <!-- YEARS_EXP -->4<!-- /YEARS_EXP -->+ years of professional experience, backend-leaning. Mostly Python/Django/Wagtail, with a thing for automation. I release open source tools when I find a problem worth solving.
 
-Recently built [kwelea](https://github.com/engineervix/kwelea), a standalone docs site generator, and [pseudoc](https://github.com/engineervix/pseudoc), which generates fake PDF, Word, and Excel files for testing workflows. Also learning Go.
-
+Recently built [kwelea](https://github.com/engineervix/kwelea), a standalone docs site generator, and [pseudoc](https://github.com/engineervix/pseudoc), which generates fake PDF, Word, and Excel files for testing workflows.
 I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagtail, Linux questions welcome: victormiti (at) gmail (dot) com.
 
 <h3 align="left">Connect with me:</h3>
@@ -22,9 +21,10 @@ I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagta
 </p>
 
 ### 🛠 Languages and Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,linux,docker,bash,js,html,css,git,github,aws,go" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,go,bash,django,flask,vue,nodejs,html,css,sass,tailwind,vite,webpack,babel,postgres,redis,linux,docker,aws,heroku,cloudflare,terraform,git,github,gitlab,vim,latex,android&perline=15" />
   </a>
 </p>
 
@@ -36,8 +36,8 @@ I write at [blog.victor.co.zm](https://blog.victor.co.zm). Python, Django, Wagta
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engineervix&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engineervix&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="General Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineervix&theme=transparent&hide_border=true&title_color=0e75b6" alt="Streak Stats" />
