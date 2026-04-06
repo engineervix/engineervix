@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Victor Miti's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 152, Total Commits  : 6102, Total PRs: 343, Total Issues: 94, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 151, Total Commits  : 6102, Total PRs: 343, Total Issues: 94, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 25.9367740862866;
+        stroke-dashoffset: 26.05016771528147;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >152</text>
+      >151</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
