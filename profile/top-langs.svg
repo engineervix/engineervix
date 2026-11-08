@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="103.7"
+          width="103.69"
           height="8"
           fill="#3572A5"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="103.7"
+          x="103.69"
           y="0"
           width="34"
           height="8"
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="137.7"
+          x="137.69"
           y="0"
-          width="33.76"
+          width="33.75"
           height="8"
           fill="#00ADD8"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="171.45999999999998"
+          x="171.44"
           y="0"
           width="31.64"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="203.09999999999997"
+          x="203.07999999999998"
           y="0"
-          width="23.55"
+          width="23.54"
           height="8"
           fill="#663399"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="226.64999999999998"
+          x="226.61999999999998"
           y="0"
-          width="23.35"
+          width="23.38"
           height="8"
           fill="#89e051"
         />
@@ -212,7 +212,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 12.66%
+        HTML 12.65%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.34%
+        Shell 9.35%
       </text>
     </g>
   </g></g>
